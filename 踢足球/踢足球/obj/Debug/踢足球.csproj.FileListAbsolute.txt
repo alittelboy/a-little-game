@@ -1,0 +1,10 @@
+E:\bc\c#\踢足球\踢足球\bin\Debug\踢足球.exe.config
+E:\bc\c#\踢足球\踢足球\bin\Debug\踢足球.exe
+E:\bc\c#\踢足球\踢足球\bin\Debug\踢足球.pdb
+E:\bc\c#\踢足球\踢足球\obj\Debug\踢足球.csprojResolveAssemblyReference.cache
+E:\bc\c#\踢足球\踢足球\obj\Debug\踢足球.Form1.resources
+E:\bc\c#\踢足球\踢足球\obj\Debug\踢足球.Properties.Resources.resources
+E:\bc\c#\踢足球\踢足球\obj\Debug\踢足球.csproj.GenerateResource.cache
+E:\bc\c#\踢足球\踢足球\obj\Debug\踢足球.csproj.CoreCompileInputs.cache
+E:\bc\c#\踢足球\踢足球\obj\Debug\踢足球.exe
+E:\bc\c#\踢足球\踢足球\obj\Debug\踢足球.pdb
